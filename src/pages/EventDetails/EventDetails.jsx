@@ -1,4 +1,5 @@
 import React from 'react'
+import './EventDetails.css'
 
 const EventDetails = () => {
     return (
